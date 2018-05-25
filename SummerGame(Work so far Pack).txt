@@ -1,0 +1,4 @@
+Work done:
+Units take turns after they used all their moves and X is pressed (Small glitch where sometimes a unit gets skip might want ot change the getbutton command)
+Units move 1 tile at a time // no 2 units can be on same square // units can move ouside map (add a tigger box ouside the map area)
+Units turn get rearanged based on their speed stat // units have stats Movemen decides how many tiles they can move, and speed determines who goes first.
